@@ -33,6 +33,7 @@ body{
     border: 1px solid #fff;
     border-radius: 5px;
     display: block;
+    cursor: pointer;
 }
 
 #title{
@@ -93,3 +94,4 @@ img{
     border-radius: 50%;
     object-fit: cover;
 }
+
